@@ -1,0 +1,1 @@
+<?php /**PATH /home/pradiptad/laravel/eShop/resources/views/welcome.blade.php ENDPATH**/ ?>
